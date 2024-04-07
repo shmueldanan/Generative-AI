@@ -4,7 +4,7 @@ This repo includes code Examples for creating a simple letter (A-F) image genera
 Detailed information on implementation can be found here: https://ai-by-example.com/generative-adversarial-networks/
 
 We train the code on letters A-F, below is a sample of the input data. 
-<img width="500" src="https://github.com/shmueldanan/Generative-Adversarial-Network/assets/13452018/998b5c58-bc62-43fb-85c4-30260a19832c">
+<div style="text-align: left"><img width="500" src="https://github.com/shmueldanan/Generative-Adversarial-Network/assets/13452018/998b5c58-bc62-43fb-85c4-30260a19832c">
 
 
 
